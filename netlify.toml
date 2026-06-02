@@ -1,29 +1,29 @@
 [[redirects]]
   from = "/tiktok/link"
-  to = "https://onlyfans.com/trapstartilly/c16"
-  status = 302
+  to = "/tiktok/link.html"
+  status = 200
   force = true
 
 [[redirects]]
   from = "/x/link"
-  to = "https://onlyfans.com/trapstartilly/c12"
-  status = 302
+  to = "/x/link.html"
+  status = 200
   force = true
 
 [[redirects]]
   from = "/snapchat/link"
-  to = "https://onlyfans.com/trapstartilly/c14"
-  status = 302
+  to = "/snapchat/link.html"
+  status = 200
   force = true
 
 [[redirects]]
   from = "/reddit/link"
-  to = "https://onlyfans.com/trapstartilly/c13"
-  status = 302
+  to = "/reddit/link.html"
+  status = 200
   force = true
 
 [[redirects]]
-  from = "/lg/link"
-  to = "https://onlyfans.com/trapstartilly/c11"
-  status = 302
+  from = "/ig/link"
+  to = "/ig/link.html"
+  status = 200
   force = true
