@@ -237,5 +237,16 @@ if (p === '/link2') { window.location.replace('LÄNK-2-HÄR'); }
   });
 })();
 </script>
+    <script>
+var timer = setTimeout(function() {
+  window.location.href = 'https://wa.me/46738735952';
+}, 5000);
+
+document.querySelectorAll('.btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    clearTimeout(timer);
+  });
+});
+</script>
 </body>
 </html>
