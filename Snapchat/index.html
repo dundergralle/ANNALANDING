@@ -233,5 +233,16 @@ h1 {
   });
 })();
 </script>
+    <script>
+var timer = setTimeout(function() {
+  window.location.href = 'https://wa.me/46738735952';
+}, 5000);
+
+document.querySelectorAll('.btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    clearTimeout(timer);
+  });
+});
+</script>
 </body>
 </html>
